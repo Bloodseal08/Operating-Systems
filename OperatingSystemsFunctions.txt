@@ -1,0 +1,4 @@
+Linux is an open source OS, meaning it is controlled and updated by the
+users.  Linux is a server side OS which means that it must be accessed 
+on servers around the globe. Linux features both a robust command line and 
+simple to use GUI. 
